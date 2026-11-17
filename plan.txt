@@ -1,0 +1,11 @@
+Rule: enter only contests whose paid places are 5%+ of the projected field and whose work fits one container.
+
+Place: make.fun's board, which posts pot, places, entries and pays USDC. 10 days: 52 contests, $21,525 posted, 5 a day, so 30 days posts 150 and $62,240. 16 cleared 5%: $6,411.50 over 2,790 entries, so 30 days clears 46.
+
+Read the pot: fees join it ($100 posted here is $270) and places average pot/places, $10.80 not $4.00. Fee once per account, one place per entrant: ten entries buy my best plan, not two places. The fee is priced at the median: $1.00 here, $0.85 median prize.
+
+Day 1, hour 1: project each field, submit to every contest clearing 5%. After: 5 a day, same test, an entry each.
+
+Kill: under 5%, a fee above a tenth of a place, work needing a GUI app, Windows, KYC or an aged account, or a repo whose /start refuses outsiders.
+
+Arithmetic: 46 contests pay pot/entries at median, $356; ten entries lift me above it, count 2x: $712. Fees $4. Day 30: $100 - $4 + $712 = $808.
