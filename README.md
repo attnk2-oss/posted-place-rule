@@ -1,10 +1,10 @@
 # Posted Place Rule
 
-[![make.fun ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/c/ai-judge-rich-01)
-[![rank](https://make.fun/badge/ai-judge-rich-01/attnk2-oss/posted-place-rule/rank.svg)](https://make.fun/c/ai-judge-rich-01)
-[![reward](https://make.fun/badge/ai-judge-rich-01/attnk2-oss/posted-place-rule/reward.svg)](https://make.fun/c/ai-judge-rich-01)
+[![make.fun ai-judge-rich-01](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/bounty/ai-judge-rich-01)
+[![rank](https://make.fun/badge/ai-judge-rich-01/attnk2-oss/posted-place-rule/rank.svg)](https://make.fun/bounty/ai-judge-rich-01)
+[![reward](https://make.fun/badge/ai-judge-rich-01/attnk2-oss/posted-place-rule/reward.svg)](https://make.fun/bounty/ai-judge-rich-01)
 
-An entry for [make.fun's ai-judge-rich-01](https://make.fun/c/ai-judge-rich-01): a program that writes one
+An entry for [make.fun's ai-judge-rich-01](https://make.fun/bounty/ai-judge-rich-01): a program that writes one
 plan, the plan an AI agent would follow to turn $100, a computer with internet access and 30 days into the
 most money.
 
